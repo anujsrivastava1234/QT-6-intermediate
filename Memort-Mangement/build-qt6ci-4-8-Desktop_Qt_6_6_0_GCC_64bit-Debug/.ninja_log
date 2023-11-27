@@ -1,0 +1,21 @@
+# ninja log v5
+0	263	1700152133670449610	qt6ci-4-8_autogen/timestamp	553b8313c2761e78
+0	263	1700152133670449610	qt6ci-4-8_autogen/mocs_compilation.cpp	553b8313c2761e78
+0	263	1700152133670449610	/home/anuj/Documents/QT-Intermmediate/Memort-Mangement/build-qt6ci-4-8-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-4-8_autogen/timestamp	553b8313c2761e78
+0	263	1700152133670449610	/home/anuj/Documents/QT-Intermmediate/Memort-Mangement/build-qt6ci-4-8-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-4-8_autogen/mocs_compilation.cpp	553b8313c2761e78
+265	1872	1700152135282376614	CMakeFiles/qt6ci-4-8.dir/test.cpp.o	5b603a76564fac02
+264	1987	1700152135398371361	CMakeFiles/qt6ci-4-8.dir/qt6ci-4-8_autogen/mocs_compilation.cpp.o	b5bdda7ab2900b8d
+264	2003	1700152135414370635	CMakeFiles/qt6ci-4-8.dir/main.cpp.o	4cdaffc6ebc10ae6
+2003	2141	1700152135554364296	qt6ci-4-8	8e0e7f94d2867b7c
+1	13	1700152185016124356	qt6ci-4-8_autogen/timestamp	553b8313c2761e78
+1	13	1700152185016124356	qt6ci-4-8_autogen/mocs_compilation.cpp	553b8313c2761e78
+1	13	1700152185016124356	/home/anuj/Documents/QT-Intermmediate/Memort-Mangement/build-qt6ci-4-8-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-4-8_autogen/timestamp	553b8313c2761e78
+1	13	1700152185016124356	/home/anuj/Documents/QT-Intermmediate/Memort-Mangement/build-qt6ci-4-8-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-4-8_autogen/mocs_compilation.cpp	553b8313c2761e78
+14	1736	1700152186736046468	CMakeFiles/qt6ci-4-8.dir/main.cpp.o	4cdaffc6ebc10ae6
+1736	1871	1700152186872040309	qt6ci-4-8	8e0e7f94d2867b7c
+2	15	1700152243685467439	qt6ci-4-8_autogen/timestamp	553b8313c2761e78
+2	15	1700152243685467439	qt6ci-4-8_autogen/mocs_compilation.cpp	553b8313c2761e78
+2	15	1700152243685467439	/home/anuj/Documents/QT-Intermmediate/Memort-Mangement/build-qt6ci-4-8-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-4-8_autogen/timestamp	553b8313c2761e78
+2	15	1700152243685467439	/home/anuj/Documents/QT-Intermmediate/Memort-Mangement/build-qt6ci-4-8-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-4-8_autogen/mocs_compilation.cpp	553b8313c2761e78
+16	1332	1700152245001407845	CMakeFiles/qt6ci-4-8.dir/main.cpp.o	4cdaffc6ebc10ae6
+1332	1480	1700152245149401143	qt6ci-4-8	8e0e7f94d2867b7c

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/2-2BasicDataTypes/">
+    <file alias="Main.qml">/home/anuj/Documents/QT-Intermmediate/QSetting/2-2BasicDataTypes/Main.qml</file>
+  </qresource>
+</RCC>
+

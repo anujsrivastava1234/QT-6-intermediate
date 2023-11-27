@@ -1,0 +1,14 @@
+# ninja log v5
+0	13	1701024919403633817	qt6ci-13-assignment_autogen/timestamp	530b978d0b242fbc
+0	13	1701024919403633817	qt6ci-13-assignment_autogen/mocs_compilation.cpp	530b978d0b242fbc
+0	13	1701024919403633817	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-assignment-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-assignment_autogen/timestamp	530b978d0b242fbc
+0	13	1701024919403633817	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-assignment-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-assignment_autogen/mocs_compilation.cpp	530b978d0b242fbc
+13	24	1701024919415634163	CMakeFiles/qt6ci-13-assignment.dir/qt6ci-13-assignment_autogen/mocs_compilation.cpp.o	c18f890837d0af7f
+14	1123	1701024920515665933	CMakeFiles/qt6ci-13-assignment.dir/main.cpp.o	c4884a348461855a
+1124	1238	1701024920631669280	qt6ci-13-assignment	802d2216053d3ef9
+0	6	1701024930679956461	qt6ci-13-assignment_autogen/timestamp	530b978d0b242fbc
+0	6	1701024930679956461	qt6ci-13-assignment_autogen/mocs_compilation.cpp	530b978d0b242fbc
+0	6	1701024930679956461	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-assignment-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-assignment_autogen/timestamp	530b978d0b242fbc
+0	6	1701024930679956461	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-assignment-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-assignment_autogen/mocs_compilation.cpp	530b978d0b242fbc
+7	1100	1701024931771987353	CMakeFiles/qt6ci-13-assignment.dir/main.cpp.o	c4884a348461855a
+1100	1223	1701024931895990859	qt6ci-13-assignment	802d2216053d3ef9

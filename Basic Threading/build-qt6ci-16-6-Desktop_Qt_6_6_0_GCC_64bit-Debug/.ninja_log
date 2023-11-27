@@ -1,0 +1,60 @@
+# ninja log v5
+0	185	1701085852841998059	qt6ci-16-6_autogen/timestamp	b90eabc1f06d75a7
+0	185	1701085852841998059	qt6ci-16-6_autogen/mocs_compilation.cpp	b90eabc1f06d75a7
+0	185	1701085852841998059	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-6_autogen/timestamp	b90eabc1f06d75a7
+0	185	1701085852841998059	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-6_autogen/mocs_compilation.cpp	b90eabc1f06d75a7
+186	1221	1701085853882000765	CMakeFiles/qt6ci-16-6.dir/main.cpp.o	2fa7513e1c808612
+186	1234	1701085853894000797	CMakeFiles/qt6ci-16-6.dir/qt6ci-16-6_autogen/mocs_compilation.cpp.o	e04d052dd8aebbdf
+186	1256	1701085853914000848	CMakeFiles/qt6ci-16-6.dir/task.cpp.o	f5e6d62f04703a17
+1256	1371	1701085854030001139	qt6ci-16-6	9c7218facb1af45f
+1	172	1701086114652906108	qt6ci-16-6_autogen/timestamp	b90eabc1f06d75a7
+1	172	1701086114652906108	qt6ci-16-6_autogen/mocs_compilation.cpp	b90eabc1f06d75a7
+1	172	1701086114652906108	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-6_autogen/timestamp	b90eabc1f06d75a7
+1	172	1701086114652906108	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-6_autogen/mocs_compilation.cpp	b90eabc1f06d75a7
+173	1284	1701086115764866868	CMakeFiles/qt6ci-16-6.dir/qt6ci-16-6_autogen/mocs_compilation.cpp.o	e04d052dd8aebbdf
+174	1514	1701086115996858675	CMakeFiles/qt6ci-16-6.dir/task.cpp.o	f5e6d62f04703a17
+1	13	1701086118600766323	qt6ci-16-6_autogen/timestamp	b90eabc1f06d75a7
+1	13	1701086118600766323	qt6ci-16-6_autogen/mocs_compilation.cpp	b90eabc1f06d75a7
+1	13	1701086118600766323	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-6_autogen/timestamp	b90eabc1f06d75a7
+1	13	1701086118600766323	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-6_autogen/mocs_compilation.cpp	b90eabc1f06d75a7
+14	1104	1701086119688727575	CMakeFiles/qt6ci-16-6.dir/main.cpp.o	2fa7513e1c808612
+0	4	0	CMakeFiles/clean.additional	b5ae91012baf8b17
+4	8	0	clean	5c1f7fd1157350b2
+0	164	1701086151383558032	qt6ci-16-6_autogen/timestamp	b90eabc1f06d75a7
+0	164	1701086151383558032	qt6ci-16-6_autogen/mocs_compilation.cpp	b90eabc1f06d75a7
+0	164	1701086151383558032	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-6_autogen/timestamp	b90eabc1f06d75a7
+0	164	1701086151383558032	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-6_autogen/mocs_compilation.cpp	b90eabc1f06d75a7
+164	1186	1701086152407518990	CMakeFiles/qt6ci-16-6.dir/task.cpp.o	f5e6d62f04703a17
+164	1208	1701086152431518074	CMakeFiles/qt6ci-16-6.dir/qt6ci-16-6_autogen/mocs_compilation.cpp.o	e04d052dd8aebbdf
+164	1317	1701086152539513952	CMakeFiles/qt6ci-16-6.dir/main.cpp.o	2fa7513e1c808612
+0	3	0	CMakeFiles/clean.additional	b5ae91012baf8b17
+3	5	0	clean	5c1f7fd1157350b2
+0	5	0	CMakeFiles/clean.additional	b5ae91012baf8b17
+6	9	0	clean	5c1f7fd1157350b2
+2	165	1701086161391173276	qt6ci-16-6_autogen/timestamp	b90eabc1f06d75a7
+2	165	1701086161391173276	qt6ci-16-6_autogen/mocs_compilation.cpp	b90eabc1f06d75a7
+2	165	1701086161391173276	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-6_autogen/timestamp	b90eabc1f06d75a7
+2	165	1701086161391173276	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-6_autogen/mocs_compilation.cpp	b90eabc1f06d75a7
+166	1181	1701086162407133823	CMakeFiles/qt6ci-16-6.dir/qt6ci-16-6_autogen/mocs_compilation.cpp.o	e04d052dd8aebbdf
+165	1181	1701086162407133823	CMakeFiles/qt6ci-16-6.dir/main.cpp.o	2fa7513e1c808612
+166	1185	1701086162411133668	CMakeFiles/qt6ci-16-6.dir/task.cpp.o	f5e6d62f04703a17
+1	234	1701086170238827333	qt6ci-16-6_autogen/timestamp	b90eabc1f06d75a7
+1	234	1701086170238827333	qt6ci-16-6_autogen/mocs_compilation.cpp	b90eabc1f06d75a7
+1	234	1701086170238827333	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-6_autogen/timestamp	b90eabc1f06d75a7
+1	234	1701086170238827333	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-6_autogen/mocs_compilation.cpp	b90eabc1f06d75a7
+234	1493	1701086171498777636	CMakeFiles/qt6ci-16-6.dir/main.cpp.o	2fa7513e1c808612
+235	1521	1701086171526776531	CMakeFiles/qt6ci-16-6.dir/task.cpp.o	f5e6d62f04703a17
+234	1753	1701086171758767371	CMakeFiles/qt6ci-16-6.dir/qt6ci-16-6_autogen/mocs_compilation.cpp.o	e04d052dd8aebbdf
+1753	1854	1701086171858763422	qt6ci-16-6	9c7218facb1af45f
+1	15	1701086249655507531	qt6ci-16-6_autogen/timestamp	b90eabc1f06d75a7
+1	15	1701086249655507531	qt6ci-16-6_autogen/mocs_compilation.cpp	b90eabc1f06d75a7
+1	15	1701086249655507531	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-6_autogen/timestamp	b90eabc1f06d75a7
+1	15	1701086249655507531	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-6_autogen/mocs_compilation.cpp	b90eabc1f06d75a7
+16	1138	1701086250775458260	CMakeFiles/qt6ci-16-6.dir/main.cpp.o	2fa7513e1c808612
+1138	1259	1701086250895452979	qt6ci-16-6	9c7218facb1af45f
+1	18	1701086475144644635	qt6ci-16-6_autogen/timestamp	b90eabc1f06d75a7
+1	18	1701086475144644635	qt6ci-16-6_autogen/mocs_compilation.cpp	b90eabc1f06d75a7
+1	18	1701086475144644635	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-6_autogen/timestamp	b90eabc1f06d75a7
+1	18	1701086475144644635	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-6_autogen/mocs_compilation.cpp	b90eabc1f06d75a7
+18	1177	1701086476304585099	CMakeFiles/qt6ci-16-6.dir/main.cpp.o	2fa7513e1c808612
+1177	1302	1701086476424578938	qt6ci-16-6	9c7218facb1af45f

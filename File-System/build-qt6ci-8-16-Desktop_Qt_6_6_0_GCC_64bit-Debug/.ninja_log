@@ -1,0 +1,8 @@
+# ninja log v5
+0	16	1700936177531748226	qt6ci-8-16_autogen/timestamp	479e7698a549346e
+0	16	1700936177531748226	qt6ci-8-16_autogen/mocs_compilation.cpp	479e7698a549346e
+0	16	1700936177531748226	/home/anuj/Documents/QT-Intermmediate/File-System/build-qt6ci-8-16-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-8-16_autogen/timestamp	479e7698a549346e
+0	16	1700936177531748226	/home/anuj/Documents/QT-Intermmediate/File-System/build-qt6ci-8-16-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-8-16_autogen/mocs_compilation.cpp	479e7698a549346e
+16	25	1700936177543747601	CMakeFiles/qt6ci-8-16.dir/qt6ci-8-16_autogen/mocs_compilation.cpp.o	7e01265b6a4c5c00
+17	1260	1700936178775683513	CMakeFiles/qt6ci-8-16.dir/main.cpp.o	eac408e4e6220b23
+1260	1381	1700936178895677274	qt6ci-8-16	8a408655c16f2bed

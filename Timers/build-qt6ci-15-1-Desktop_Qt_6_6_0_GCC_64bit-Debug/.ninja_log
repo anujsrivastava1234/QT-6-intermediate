@@ -1,0 +1,20 @@
+# ninja log v5
+0	17	1701033108254036119	qt6ci-15-1_autogen/timestamp	b342a7ab43093636
+0	17	1701033108254036119	qt6ci-15-1_autogen/mocs_compilation.cpp	b342a7ab43093636
+0	17	1701033108254036119	/home/anuj/Documents/QT-Intermmediate/Timers/build-qt6ci-15-1-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-15-1_autogen/timestamp	b342a7ab43093636
+0	17	1701033108254036119	/home/anuj/Documents/QT-Intermmediate/Timers/build-qt6ci-15-1-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-15-1_autogen/mocs_compilation.cpp	b342a7ab43093636
+17	29	1701033108270036300	CMakeFiles/qt6ci-15-1.dir/qt6ci-15-1_autogen/mocs_compilation.cpp.o	ea708d2d23e4b5a0
+17	1012	1701033109254047410	CMakeFiles/qt6ci-15-1.dir/main.cpp.o	e611cc2fd7ddc0c5
+1013	1130	1701033109370048715	qt6ci-15-1	73c51a7c340ded1d
+2	13	1701033116406126548	qt6ci-15-1_autogen/timestamp	b342a7ab43093636
+2	13	1701033116406126548	qt6ci-15-1_autogen/mocs_compilation.cpp	b342a7ab43093636
+2	13	1701033116406126548	/home/anuj/Documents/QT-Intermmediate/Timers/build-qt6ci-15-1-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-15-1_autogen/timestamp	b342a7ab43093636
+2	13	1701033116406126548	/home/anuj/Documents/QT-Intermmediate/Timers/build-qt6ci-15-1-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-15-1_autogen/mocs_compilation.cpp	b342a7ab43093636
+13	999	1701033117390137217	CMakeFiles/qt6ci-15-1.dir/main.cpp.o	e611cc2fd7ddc0c5
+999	1125	1701033117514138557	qt6ci-15-1	73c51a7c340ded1d
+1	14	1701056987895751099	qt6ci-15-1_autogen/timestamp	b342a7ab43093636
+1	14	1701056987895751099	qt6ci-15-1_autogen/mocs_compilation.cpp	b342a7ab43093636
+1	14	1701056987895751099	/home/anuj/Documents/QT-Intermmediate/Timers/build-qt6ci-15-1-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-15-1_autogen/timestamp	b342a7ab43093636
+1	14	1701056987895751099	/home/anuj/Documents/QT-Intermmediate/Timers/build-qt6ci-15-1-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-15-1_autogen/mocs_compilation.cpp	b342a7ab43093636
+15	1120	1701056989003758238	CMakeFiles/qt6ci-15-1.dir/main.cpp.o	e611cc2fd7ddc0c5
+1120	1237	1701056989119758981	qt6ci-15-1	73c51a7c340ded1d

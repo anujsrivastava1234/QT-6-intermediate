@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/webassemblyTest/">
+    <file alias="Main.qml">/home/anuj/Documents/QT-Intermmediate/QSetting/webassemblyTest/Main.qml</file>
+  </qresource>
+</RCC>
+

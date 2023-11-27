@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5c2ded4ff98f90cf8b0b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qt6ci-10-4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6ci-10-4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6ci-10-4-Debug-b1848604590cac15e2d7.json",
+					"name" : "qt6ci-10-4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6ci-10-4_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6ci-10-4_autogen-Debug-5fad4a3a2607db3548d8.json",
+					"name" : "qt6ci-10-4_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6ci-10-4_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6ci-10-4_autogen_timestamp_deps-Debug-4cdcd5736c73342eb8c2.json",
+					"name" : "qt6ci-10-4_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/anuj/Documents/QT-Intermmediate/Encoding/build-qt6ci-10-4-Desktop_Qt_6_6_0_GCC_64bit-Debug",
+		"source" : "/home/anuj/Documents/QT-Intermmediate/Encoding/qt6ci-10-4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

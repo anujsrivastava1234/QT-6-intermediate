@@ -1,0 +1,26 @@
+# ninja log v5
+0	20	1700143609801683456	qr6ci-4-6_autogen/timestamp	fe65c7c664cbcfbc
+0	20	1700143609801683456	qr6ci-4-6_autogen/mocs_compilation.cpp	fe65c7c664cbcfbc
+0	20	1700143609801683456	/home/anuj/Documents/QT-Intermmediate/Memort-Mangement/build-qr6ci-4-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qr6ci-4-6_autogen/timestamp	fe65c7c664cbcfbc
+0	20	1700143609801683456	/home/anuj/Documents/QT-Intermmediate/Memort-Mangement/build-qr6ci-4-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qr6ci-4-6_autogen/mocs_compilation.cpp	fe65c7c664cbcfbc
+20	27	1700143609809683872	CMakeFiles/qr6ci-4-6.dir/qr6ci-4-6_autogen/mocs_compilation.cpp.o	a63a121365500601
+20	917	1700143610697729980	CMakeFiles/qr6ci-4-6.dir/main.cpp.o	35ca47a53db8fc84
+917	1031	1700143610813736001	qr6ci-4-6	60e714fe6ba5d4a5
+1	7	1700143658700127049	qr6ci-4-6_autogen/timestamp	fe65c7c664cbcfbc
+1	7	1700143658700127049	qr6ci-4-6_autogen/mocs_compilation.cpp	fe65c7c664cbcfbc
+1	7	1700143658700127049	/home/anuj/Documents/QT-Intermmediate/Memort-Mangement/build-qr6ci-4-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qr6ci-4-6_autogen/timestamp	fe65c7c664cbcfbc
+1	7	1700143658700127049	/home/anuj/Documents/QT-Intermmediate/Memort-Mangement/build-qr6ci-4-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qr6ci-4-6_autogen/mocs_compilation.cpp	fe65c7c664cbcfbc
+7	928	1700143659620171276	CMakeFiles/qr6ci-4-6.dir/main.cpp.o	35ca47a53db8fc84
+928	1041	1700143659732176657	qr6ci-4-6	60e714fe6ba5d4a5
+1	8	1700143693445757156	qr6ci-4-6_autogen/timestamp	fe65c7c664cbcfbc
+1	8	1700143693445757156	qr6ci-4-6_autogen/mocs_compilation.cpp	fe65c7c664cbcfbc
+1	8	1700143693445757156	/home/anuj/Documents/QT-Intermmediate/Memort-Mangement/build-qr6ci-4-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qr6ci-4-6_autogen/timestamp	fe65c7c664cbcfbc
+1	8	1700143693445757156	/home/anuj/Documents/QT-Intermmediate/Memort-Mangement/build-qr6ci-4-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qr6ci-4-6_autogen/mocs_compilation.cpp	fe65c7c664cbcfbc
+8	948	1700143694385800163	CMakeFiles/qr6ci-4-6.dir/main.cpp.o	35ca47a53db8fc84
+948	1063	1700143694497805282	qr6ci-4-6	60e714fe6ba5d4a5
+0	5	1700143757232560061	qr6ci-4-6_autogen/timestamp	fe65c7c664cbcfbc
+0	5	1700143757232560061	qr6ci-4-6_autogen/mocs_compilation.cpp	fe65c7c664cbcfbc
+0	5	1700143757232560061	/home/anuj/Documents/QT-Intermmediate/Memort-Mangement/build-qr6ci-4-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qr6ci-4-6_autogen/timestamp	fe65c7c664cbcfbc
+0	5	1700143757232560061	/home/anuj/Documents/QT-Intermmediate/Memort-Mangement/build-qr6ci-4-6-Desktop_Qt_6_6_0_GCC_64bit-Debug/qr6ci-4-6_autogen/mocs_compilation.cpp	fe65c7c664cbcfbc
+6	943	1700143758168599590	CMakeFiles/qr6ci-4-6.dir/main.cpp.o	35ca47a53db8fc84
+943	1060	1700143758284604483	qr6ci-4-6	60e714fe6ba5d4a5

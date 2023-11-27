@@ -1,0 +1,34 @@
+Performing C++ SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: /home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-Android_Qt_6_6_0_Clang_arm64_v8a-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/home/anuj/Qt/Tools/Ninja/ninja cmTC_4acc4 && [1/2] Building CXX object CMakeFiles/cmTC_4acc4.dir/src.cxx.o
+FAILED: CMakeFiles/cmTC_4acc4.dir/src.cxx.o 
+/home/anuj/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android23 --sysroot=/home/anuj/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DCMAKE_HAVE_LIBC_PTHREAD  -DQT_QML_DEBUG   -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++  -O2 -g -DNDEBUG -fPIE -std=gnu++17 -MD -MT CMakeFiles/cmTC_4acc4.dir/src.cxx.o -MF CMakeFiles/cmTC_4acc4.dir/src.cxx.o.d -o CMakeFiles/cmTC_4acc4.dir/src.cxx.o -c /home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-Android_Qt_6_6_0_Clang_arm64_v8a-Debug/CMakeFiles/CMakeTmp/src.cxx
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-Android_Qt_6_6_0_Clang_arm64_v8a-Debug/CMakeFiles/CMakeTmp/src.cxx:13:3: error: use of undeclared identifier 'pthread_cancel'
+  pthread_cancel(thread);
+  ^
+1 error generated.
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+#include <pthread.h>
+
+static void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+

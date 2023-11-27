@@ -1,0 +1,26 @@
+# ninja log v5
+0	25	1700999938914382586	qt6ci-13-2_autogen/timestamp	ece9b5ca8dc680c9
+0	25	1700999938914382586	qt6ci-13-2_autogen/mocs_compilation.cpp	ece9b5ca8dc680c9
+0	25	1700999938914382586	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-2-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-2_autogen/timestamp	ece9b5ca8dc680c9
+0	25	1700999938914382586	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-2-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-2_autogen/mocs_compilation.cpp	ece9b5ca8dc680c9
+26	47	1700999938938382258	CMakeFiles/qt6ci-13-2.dir/qt6ci-13-2_autogen/mocs_compilation.cpp.o	930f2b036fb7afd8
+25	1812	1700999940702358158	CMakeFiles/qt6ci-13-2.dir/main.cpp.o	ce1e024e796ee411
+1812	1934	1700999940826356464	qt6ci-13-2	9d971f887f4764e3
+1	9	1701000065384713201	qt6ci-13-2_autogen/timestamp	ece9b5ca8dc680c9
+1	9	1701000065384713201	qt6ci-13-2_autogen/mocs_compilation.cpp	ece9b5ca8dc680c9
+1	9	1701000065384713201	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-2-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-2_autogen/timestamp	ece9b5ca8dc680c9
+1	9	1701000065384713201	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-2-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-2_autogen/mocs_compilation.cpp	ece9b5ca8dc680c9
+9	1254	1701000066628697325	CMakeFiles/qt6ci-13-2.dir/main.cpp.o	ce1e024e796ee411
+1254	1387	1701000066760695641	qt6ci-13-2	9d971f887f4764e3
+1	14	1701000169167419995	qt6ci-13-2_autogen/timestamp	ece9b5ca8dc680c9
+1	14	1701000169167419995	qt6ci-13-2_autogen/mocs_compilation.cpp	ece9b5ca8dc680c9
+1	14	1701000169167419995	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-2-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-2_autogen/timestamp	ece9b5ca8dc680c9
+1	14	1701000169167419995	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-2-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-2_autogen/mocs_compilation.cpp	ece9b5ca8dc680c9
+14	1245	1701000170395405048	CMakeFiles/qt6ci-13-2.dir/main.cpp.o	ce1e024e796ee411
+1245	1376	1701000170527403441	qt6ci-13-2	9d971f887f4764e3
+1	14	1701000185675219706	qt6ci-13-2_autogen/timestamp	ece9b5ca8dc680c9
+1	14	1701000185675219706	qt6ci-13-2_autogen/mocs_compilation.cpp	ece9b5ca8dc680c9
+1	14	1701000185675219706	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-2-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-2_autogen/timestamp	ece9b5ca8dc680c9
+1	14	1701000185675219706	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-2-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-2_autogen/mocs_compilation.cpp	ece9b5ca8dc680c9
+14	1255	1701000186915204716	CMakeFiles/qt6ci-13-2.dir/main.cpp.o	ce1e024e796ee411
+1255	1392	1701000187051203072	qt6ci-13-2	9d971f887f4764e3

@@ -1,0 +1,20 @@
+# ninja log v5
+0	18	1701024330855699918	qt6ci-13-7_autogen/timestamp	e02164ecbd278b78
+0	18	1701024330855699918	qt6ci-13-7_autogen/mocs_compilation.cpp	e02164ecbd278b78
+0	18	1701024330855699918	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-7-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-7_autogen/timestamp	e02164ecbd278b78
+0	18	1701024330855699918	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-7-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-7_autogen/mocs_compilation.cpp	e02164ecbd278b78
+19	31	1701024330871699816	CMakeFiles/qt6ci-13-7.dir/qt6ci-13-7_autogen/mocs_compilation.cpp.o	bb9b786c1b78e61
+18	1055	1701024331895693262	CMakeFiles/qt6ci-13-7.dir/main.cpp.o	43ea5a76d6f35518
+1056	1165	1701024332003692571	qt6ci-13-7	94cb417eaf9671d7
+2	16	1701024363255493998	qt6ci-13-7_autogen/timestamp	e02164ecbd278b78
+2	16	1701024363255493998	qt6ci-13-7_autogen/mocs_compilation.cpp	e02164ecbd278b78
+2	16	1701024363255493998	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-7-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-7_autogen/timestamp	e02164ecbd278b78
+2	16	1701024363255493998	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-7-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-7_autogen/mocs_compilation.cpp	e02164ecbd278b78
+16	1045	1701024364283487512	CMakeFiles/qt6ci-13-7.dir/main.cpp.o	43ea5a76d6f35518
+1045	1167	1701024364403486755	qt6ci-13-7	94cb417eaf9671d7
+1	13	1701024406131225812	qt6ci-13-7_autogen/timestamp	e02164ecbd278b78
+1	13	1701024406131225812	qt6ci-13-7_autogen/mocs_compilation.cpp	e02164ecbd278b78
+1	13	1701024406131225812	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-7-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-7_autogen/timestamp	e02164ecbd278b78
+1	13	1701024406131225812	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-7-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-7_autogen/mocs_compilation.cpp	e02164ecbd278b78
+13	1182	1701024407299218571	CMakeFiles/qt6ci-13-7.dir/main.cpp.o	43ea5a76d6f35518
+1182	1313	1701024407427217779	qt6ci-13-7	94cb417eaf9671d7

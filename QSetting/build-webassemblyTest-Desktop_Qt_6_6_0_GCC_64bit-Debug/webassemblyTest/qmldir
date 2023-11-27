@@ -1,0 +1,5 @@
+module webassemblyTest
+typeinfo appwebassemblyTest.qmltypes
+prefer :/webassemblyTest/
+Main 1.0 Main.qml
+

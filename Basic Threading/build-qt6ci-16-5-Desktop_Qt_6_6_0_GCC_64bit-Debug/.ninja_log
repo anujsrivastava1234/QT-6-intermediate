@@ -1,0 +1,39 @@
+# ninja log v5
+0	245	1701084967480284953	qt6ci-16-5_autogen/timestamp	916acf54330521e
+0	245	1701084967480284953	qt6ci-16-5_autogen/mocs_compilation.cpp	916acf54330521e
+0	245	1701084967480284953	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-5_autogen/timestamp	916acf54330521e
+0	245	1701084967480284953	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-5_autogen/mocs_compilation.cpp	916acf54330521e
+245	1502	1701084968740219919	CMakeFiles/qt6ci-16-5.dir/main.cpp.o	6cc954d3645e77fd
+246	1618	1701084968856213895	CMakeFiles/qt6ci-16-5.dir/task.cpp.o	78a898754dc9f0d4
+246	1769	1701084969008205997	CMakeFiles/qt6ci-16-5.dir/qt6ci-16-5_autogen/mocs_compilation.cpp.o	a870ee539202b771
+1769	1886	1701084969124199888	qt6ci-16-5	894abf0b98aa9f01
+1	8	1701085059385491100	qt6ci-16-5_autogen/timestamp	916acf54330521e
+1	8	1701085059385491100	qt6ci-16-5_autogen/mocs_compilation.cpp	916acf54330521e
+1	8	1701085059385491100	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-5_autogen/timestamp	916acf54330521e
+1	8	1701085059385491100	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-5_autogen/mocs_compilation.cpp	916acf54330521e
+9	1125	1701085060501392701	CMakeFiles/qt6ci-16-5.dir/main.cpp.o	6cc954d3645e77fd
+1125	1247	1701085060621382108	qt6ci-16-5	894abf0b98aa9f01
+1	14	1701085077027911774	qt6ci-16-5_autogen/timestamp	916acf54330521e
+1	14	1701085077027911774	qt6ci-16-5_autogen/mocs_compilation.cpp	916acf54330521e
+1	14	1701085077027911774	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-5_autogen/timestamp	916acf54330521e
+1	14	1701085077027911774	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-5_autogen/mocs_compilation.cpp	916acf54330521e
+15	1134	1701085078147809959	CMakeFiles/qt6ci-16-5.dir/main.cpp.o	6cc954d3645e77fd
+1134	1255	1701085078267799037	qt6ci-16-5	894abf0b98aa9f01
+2	24	1701085196944072973	qt6ci-16-5_autogen/timestamp	916acf54330521e
+2	24	1701085196944072973	qt6ci-16-5_autogen/mocs_compilation.cpp	916acf54330521e
+2	24	1701085196944072973	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-5_autogen/timestamp	916acf54330521e
+2	24	1701085196944072973	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-5_autogen/mocs_compilation.cpp	916acf54330521e
+25	962	1701085197884078018	CMakeFiles/qt6ci-16-5.dir/main.cpp.o	6cc954d3645e77fd
+962	1068	1701085197988078573	qt6ci-16-5	894abf0b98aa9f01
+2	17	1701085362315068265	qt6ci-16-5_autogen/timestamp	916acf54330521e
+2	17	1701085362315068265	qt6ci-16-5_autogen/mocs_compilation.cpp	916acf54330521e
+2	17	1701085362315068265	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-5_autogen/timestamp	916acf54330521e
+2	17	1701085362315068265	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-5_autogen/mocs_compilation.cpp	916acf54330521e
+17	992	1701085363287015973	CMakeFiles/qt6ci-16-5.dir/main.cpp.o	6cc954d3645e77fd
+992	1096	1701085363391010365	qt6ci-16-5	894abf0b98aa9f01
+2	17	1701085519593124215	qt6ci-16-5_autogen/timestamp	916acf54330521e
+2	17	1701085519593124215	qt6ci-16-5_autogen/mocs_compilation.cpp	916acf54330521e
+2	17	1701085519593124215	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-5_autogen/timestamp	916acf54330521e
+2	17	1701085519593124215	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-5_autogen/mocs_compilation.cpp	916acf54330521e
+18	1458	1701085521033024013	CMakeFiles/qt6ci-16-5.dir/main.cpp.o	6cc954d3645e77fd
+1458	1574	1701085521149015933	qt6ci-16-5	894abf0b98aa9f01

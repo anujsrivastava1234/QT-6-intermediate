@@ -1,0 +1,26 @@
+# ninja log v5
+0	15	1701084450022659491	qt6ci-16-4_autogen/timestamp	cc47d485f99374b2
+0	15	1701084450022659491	qt6ci-16-4_autogen/mocs_compilation.cpp	cc47d485f99374b2
+0	15	1701084450022659491	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-4_autogen/timestamp	cc47d485f99374b2
+0	15	1701084450022659491	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-4_autogen/mocs_compilation.cpp	cc47d485f99374b2
+16	26	1701084450034659193	CMakeFiles/qt6ci-16-4.dir/qt6ci-16-4_autogen/mocs_compilation.cpp.o	bfb1b75339685486
+15	993	1701084451002635116	CMakeFiles/qt6ci-16-4.dir/main.cpp.o	34e1c461241cb576
+994	1106	1701084451114632330	qt6ci-16-4	ca4c0d412ac5a681
+1	11	1701084466262255556	qt6ci-16-4_autogen/timestamp	cc47d485f99374b2
+1	11	1701084466262255556	qt6ci-16-4_autogen/mocs_compilation.cpp	cc47d485f99374b2
+1	11	1701084466262255556	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-4_autogen/timestamp	cc47d485f99374b2
+1	11	1701084466262255556	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-4_autogen/mocs_compilation.cpp	cc47d485f99374b2
+12	1127	1701084467378227798	CMakeFiles/qt6ci-16-4.dir/main.cpp.o	34e1c461241cb576
+1127	1242	1701084467494224913	qt6ci-16-4	ca4c0d412ac5a681
+1	21	1701084576459514580	qt6ci-16-4_autogen/timestamp	cc47d485f99374b2
+1	21	1701084576459514580	qt6ci-16-4_autogen/mocs_compilation.cpp	cc47d485f99374b2
+1	21	1701084576459514580	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-4_autogen/timestamp	cc47d485f99374b2
+1	21	1701084576459514580	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-4_autogen/mocs_compilation.cpp	cc47d485f99374b2
+21	1045	1701084577483489110	CMakeFiles/qt6ci-16-4.dir/main.cpp.o	34e1c461241cb576
+1045	1159	1701084577599486225	qt6ci-16-4	ca4c0d412ac5a681
+1	15	1701084591707135319	qt6ci-16-4_autogen/timestamp	cc47d485f99374b2
+1	15	1701084591707135319	qt6ci-16-4_autogen/mocs_compilation.cpp	cc47d485f99374b2
+1	15	1701084591707135319	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-4_autogen/timestamp	cc47d485f99374b2
+1	15	1701084591707135319	/home/anuj/Documents/QT-Intermmediate/Basic Threading/build-qt6ci-16-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-16-4_autogen/mocs_compilation.cpp	cc47d485f99374b2
+15	1054	1701084592747109451	CMakeFiles/qt6ci-16-4.dir/main.cpp.o	34e1c461241cb576
+1054	1179	1701084592871106367	qt6ci-16-4	ca4c0d412ac5a681

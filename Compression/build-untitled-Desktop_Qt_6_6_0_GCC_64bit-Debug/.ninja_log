@@ -1,0 +1,20 @@
+# ninja log v5
+0	48	1700987509325486440	untitled_autogen/timestamp	760907b16269a600
+0	48	1700987509325486440	untitled_autogen/mocs_compilation.cpp	760907b16269a600
+0	48	1700987509325486440	/home/anuj/Documents/QT-Intermmediate/Compression/build-untitled-Desktop_Qt_6_6_0_GCC_64bit-Debug/untitled_autogen/timestamp	760907b16269a600
+0	48	1700987509325486440	/home/anuj/Documents/QT-Intermmediate/Compression/build-untitled-Desktop_Qt_6_6_0_GCC_64bit-Debug/untitled_autogen/mocs_compilation.cpp	760907b16269a600
+48	69	1700987509349486698	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o	f2d33e33a687695c
+48	1040	1700987510321497159	CMakeFiles/untitled.dir/main.cpp.o	a3431e2631cbbfbe
+1041	1176	1700987510453498580	untitled	d6fb5e235a523b0d
+1	16	1700987521517617254	untitled_autogen/timestamp	760907b16269a600
+1	16	1700987521517617254	untitled_autogen/mocs_compilation.cpp	760907b16269a600
+1	16	1700987521517617254	/home/anuj/Documents/QT-Intermmediate/Compression/build-untitled-Desktop_Qt_6_6_0_GCC_64bit-Debug/untitled_autogen/timestamp	760907b16269a600
+1	16	1700987521517617254	/home/anuj/Documents/QT-Intermmediate/Compression/build-untitled-Desktop_Qt_6_6_0_GCC_64bit-Debug/untitled_autogen/mocs_compilation.cpp	760907b16269a600
+17	950	1700987522449627218	CMakeFiles/untitled.dir/main.cpp.o	a3431e2631cbbfbe
+950	1078	1700987522573628544	untitled	d6fb5e235a523b0d
+0	13	1700987547801896323	untitled_autogen/timestamp	760907b16269a600
+0	13	1700987547801896323	untitled_autogen/mocs_compilation.cpp	760907b16269a600
+0	13	1700987547801896323	/home/anuj/Documents/QT-Intermmediate/Compression/build-untitled-Desktop_Qt_6_6_0_GCC_64bit-Debug/untitled_autogen/timestamp	760907b16269a600
+0	13	1700987547801896323	/home/anuj/Documents/QT-Intermmediate/Compression/build-untitled-Desktop_Qt_6_6_0_GCC_64bit-Debug/untitled_autogen/mocs_compilation.cpp	760907b16269a600
+13	949	1700987548737906189	CMakeFiles/untitled.dir/main.cpp.o	a3431e2631cbbfbe
+949	1065	1700987548853907411	untitled	d6fb5e235a523b0d

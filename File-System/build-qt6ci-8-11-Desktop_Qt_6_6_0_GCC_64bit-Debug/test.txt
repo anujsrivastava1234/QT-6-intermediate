@@ -1,0 +1,53 @@
+#include <QCoreApplication>
+#include <QFile>
+#include <QByteArray>
+#include <QDateTime>
+#include <QString>
+#include <QTextStream>
+#include <iostream>
+#include <string>
+
+int main(int argc, char *argv[])
+{
+    QCoreApplication a(argc, argv);
+
+    std::string fileName;
+    std::string fName;
+
+    qInfo() << "Enter fileName";
+    std::getline(std::cin, fileName);
+    fileName += ".txt";
+
+    QFile file(QString::fromStdString(fileName));
+    if (file.open(QIODevice::OpenModeFlag::ReadWrite))
+    {
+        QByteArray data("Testing");
+        QString sysTime = QDateTime::currentDateTime().toString();
+
+        while (true)
+        {
+            qInfo() << "Enter your firstName ('exit' to quit): ";
+            std::getline(std::cin, fName);
+
+            if (fName == "exit")
+                break;
+
+            data.append(sysTime.toLocal8Bit());
+            data.append(" - ");
+            data.append(fName);
+            data.append("\n");
+        }
+
+        QTextStream stream(&file);
+        stream << data;
+        qInfo() << "Wrote to the file";
+        file.close(); // Close the file after writing
+    }
+    else
+    {
+        qInfo() << file.errorString();
+    }
+
+    return a.exec();
+}
+

@@ -1,0 +1,9 @@
+/home/anuj/Documents/QT-Intermmediate/Encoding/build-qt6ci-10-3-Desktop_Qt_6_6_0_GCC_64bit-Debug/CMakeFiles/qt6ci-10-3.dir
+/home/anuj/Documents/QT-Intermmediate/Encoding/build-qt6ci-10-3-Desktop_Qt_6_6_0_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/anuj/Documents/QT-Intermmediate/Encoding/build-qt6ci-10-3-Desktop_Qt_6_6_0_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/anuj/Documents/QT-Intermmediate/Encoding/build-qt6ci-10-3-Desktop_Qt_6_6_0_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/anuj/Documents/QT-Intermmediate/Encoding/build-qt6ci-10-3-Desktop_Qt_6_6_0_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/anuj/Documents/QT-Intermmediate/Encoding/build-qt6ci-10-3-Desktop_Qt_6_6_0_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/anuj/Documents/QT-Intermmediate/Encoding/build-qt6ci-10-3-Desktop_Qt_6_6_0_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/anuj/Documents/QT-Intermmediate/Encoding/build-qt6ci-10-3-Desktop_Qt_6_6_0_GCC_64bit-Debug/CMakeFiles/qt6ci-10-3_autogen_timestamp_deps.dir
+/home/anuj/Documents/QT-Intermmediate/Encoding/build-qt6ci-10-3-Desktop_Qt_6_6_0_GCC_64bit-Debug/CMakeFiles/qt6ci-10-3_autogen.dir

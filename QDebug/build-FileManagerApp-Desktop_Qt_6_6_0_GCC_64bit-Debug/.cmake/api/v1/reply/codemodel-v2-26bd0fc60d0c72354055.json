@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-260b8428c60db3c4f849.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FileManagerApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FileManagerApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FileManagerApp-Debug-d9e3e009e79aa27c6896.json",
+					"name" : "FileManagerApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FileManagerApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FileManagerApp_autogen-Debug-eb304a533831a7df83b8.json",
+					"name" : "FileManagerApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FileManagerApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FileManagerApp_autogen_timestamp_deps-Debug-52dd919fcdfa91be4142.json",
+					"name" : "FileManagerApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/anuj/Documents/QT-Intermmediate/QDebug/build-FileManagerApp-Desktop_Qt_6_6_0_GCC_64bit-Debug",
+		"source" : "/home/anuj/Documents/QT-Intermmediate/QDebug/FileManagerApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

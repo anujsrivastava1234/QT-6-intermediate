@@ -1,0 +1,14 @@
+-rootPath
+/home/anuj/Documents/QT-Intermmediate/QSetting/webassemblyTest
+-cmake-output
+-output-file
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-webassemblyTest-Desktop_Qt_6_6_0_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appwebassemblyTest.cmake
+-importPath
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-webassemblyTest-Desktop_Qt_6_6_0_GCC_64bit-Debug/webassemblyTest
+-importPath
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-webassemblyTest-Desktop_Qt_6_6_0_GCC_64bit-Debug
+-importPath
+/home/anuj/Qt/6.6.0/gcc_64/./qml
+-qrcFiles
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-webassemblyTest-Desktop_Qt_6_6_0_GCC_64bit-Debug/.rcc/qmake_webassemblyTest.qrc
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-webassemblyTest-Desktop_Qt_6_6_0_GCC_64bit-Debug/.rcc/appwebassemblyTest_raw_qml_0.qrc

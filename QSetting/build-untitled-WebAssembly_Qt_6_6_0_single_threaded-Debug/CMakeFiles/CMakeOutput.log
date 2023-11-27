@@ -1,0 +1,85 @@
+The target system is: Emscripten - 1 - x86
+The host system is: Linux - 6.2.0-36-generic - x86_64
+Performing C++ SOURCE FILE Test HAVE_STDATOMIC succeeded with the following output:
+Change Dir: /home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-WebAssembly_Qt_6_6_0_single_threaded-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/home/anuj/Qt/Tools/Ninja/ninja cmTC_a07e2 && [1/2] Building CXX object CMakeFiles/cmTC_a07e2.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_a07e2.js
+
+
+Source file was:
+#include <atomic>
+#include <cstdint>
+
+int main(int, char **)
+{
+    volatile std::atomic<char>    size_1;
+    volatile std::atomic<short>   size_2;
+    volatile std::atomic<int>     size_4;
+    volatile std::atomic<int64_t> size_8;
+
+    ++size_1;
+    ++size_2;
+    ++size_4;
+    ++size_8;
+
+    (void)size_1.load(std::memory_order_relaxed);
+    (void)size_2.load(std::memory_order_relaxed);
+    (void)size_4.load(std::memory_order_relaxed);
+    (void)size_8.load(std::memory_order_relaxed);
+
+    return 0;
+}
+Performing C++ SOURCE FILE Test HAVE_GETTIME succeeded with the following output:
+Change Dir: /home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-WebAssembly_Qt_6_6_0_single_threaded-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/home/anuj/Qt/Tools/Ninja/ninja cmTC_51ae6 && [1/2] Building CXX object CMakeFiles/cmTC_51ae6.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_51ae6.js
+
+
+Source file was:
+
+#include <time.h>
+#include <unistd.h>
+
+int main(int, char **) {
+    struct timespec ts;
+    clock_gettime(CLOCK_REALTIME, &ts);
+    return 0;
+}
+
+Performing C++ SOURCE FILE Test HAVE_SHM_OPEN_SHM_UNLINK succeeded with the following output:
+Change Dir: /home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-WebAssembly_Qt_6_6_0_single_threaded-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/home/anuj/Qt/Tools/Ninja/ninja cmTC_b06b6 && [1/2] Building CXX object CMakeFiles/cmTC_b06b6.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_b06b6.js
+
+
+Source file was:
+
+#include <sys/types.h>
+#include <sys/mman.h>
+#include <fcntl.h>
+
+int main(int, char **) {
+    shm_open("test", O_RDWR | O_CREAT | O_EXCL, 0666);
+    shm_unlink("test");
+    return 0;
+}
+
+Performing C++ SOURCE FILE Test HAVE_EGL succeeded with the following output:
+Change Dir: /home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-WebAssembly_Qt_6_6_0_single_threaded-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/home/anuj/Qt/Tools/Ninja/ninja cmTC_e3ee1 && [1/2] Building CXX object CMakeFiles/cmTC_e3ee1.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_e3ee1.js
+
+
+Source file was:
+
+#include <EGL/egl.h>
+
+int main(int, char **) {
+    [[maybe_unused]] EGLint x = 0;
+    EGLDisplay dpy = 0; EGLContext ctx = 0;
+    eglDestroyContext(dpy, ctx);
+}

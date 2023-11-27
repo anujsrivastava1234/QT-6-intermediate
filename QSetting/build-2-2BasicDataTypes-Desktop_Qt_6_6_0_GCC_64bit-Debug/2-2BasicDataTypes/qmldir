@@ -1,0 +1,5 @@
+module 2-2BasicDataTypes
+typeinfo app2-2BasicDataTypes.qmltypes
+prefer :/2-2BasicDataTypes/
+Main 1.0 Main.qml
+

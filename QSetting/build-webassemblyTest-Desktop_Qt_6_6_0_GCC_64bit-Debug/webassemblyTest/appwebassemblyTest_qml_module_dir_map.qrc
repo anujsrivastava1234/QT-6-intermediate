@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/webassemblyTest">/home/anuj/Documents/QT-Intermmediate/QSetting/build-webassemblyTest-Desktop_Qt_6_6_0_GCC_64bit-Debug/webassemblyTest</file>
+
+  </qresource>
+</RCC>

@@ -1,0 +1,20 @@
+# ninja log v5
+0	22	1701019457150129585	qt6ci-13-5_autogen/timestamp	31ce9b4c4db7f527
+0	22	1701019457150129585	qt6ci-13-5_autogen/mocs_compilation.cpp	31ce9b4c4db7f527
+0	22	1701019457150129585	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-5_autogen/timestamp	31ce9b4c4db7f527
+0	22	1701019457150129585	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-5_autogen/mocs_compilation.cpp	31ce9b4c4db7f527
+22	32	1701019457162129589	CMakeFiles/qt6ci-13-5.dir/qt6ci-13-5_autogen/mocs_compilation.cpp.o	7e66c69bfd9ba29f
+22	1573	1701019458702130068	CMakeFiles/qt6ci-13-5.dir/main.cpp.o	115566212c980269
+1574	1740	1701019458870130119	qt6ci-13-5	59da1173fc09116
+2	15	1701019557010086041	qt6ci-13-5_autogen/timestamp	31ce9b4c4db7f527
+2	15	1701019557010086041	qt6ci-13-5_autogen/mocs_compilation.cpp	31ce9b4c4db7f527
+2	15	1701019557010086041	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-5_autogen/timestamp	31ce9b4c4db7f527
+2	15	1701019557010086041	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-5_autogen/mocs_compilation.cpp	31ce9b4c4db7f527
+16	1358	1701019558350084489	CMakeFiles/qt6ci-13-5.dir/main.cpp.o	115566212c980269
+1358	1496	1701019558490084325	qt6ci-13-5	59da1173fc09116
+1	14	1701019587082045571	qt6ci-13-5_autogen/timestamp	31ce9b4c4db7f527
+1	14	1701019587082045571	qt6ci-13-5_autogen/mocs_compilation.cpp	31ce9b4c4db7f527
+1	14	1701019587082045571	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-5_autogen/timestamp	31ce9b4c4db7f527
+1	14	1701019587082045571	/home/anuj/Documents/QT-Intermmediate/Algorithms and macros/build-qt6ci-13-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-13-5_autogen/mocs_compilation.cpp	31ce9b4c4db7f527
+14	1419	1701019588486043396	CMakeFiles/qt6ci-13-5.dir/main.cpp.o	115566212c980269
+1419	1557	1701019588622043184	qt6ci-13-5	59da1173fc09116

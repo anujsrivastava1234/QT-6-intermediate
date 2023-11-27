@@ -1,0 +1,18 @@
+# ninja log v5
+1	19	1701027921233967170	qt6ci-14-4_autogen/timestamp	82bcb8ca987b0b40
+1	19	1701027921233967170	qt6ci-14-4_autogen/mocs_compilation.cpp	82bcb8ca987b0b40
+1	19	1701027921233967170	/home/anuj/Documents/QT-Intermmediate/Working with Operating system/build-qt6ci-14-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-14-4_autogen/timestamp	82bcb8ca987b0b40
+1	19	1701027921233967170	/home/anuj/Documents/QT-Intermmediate/Working with Operating system/build-qt6ci-14-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-14-4_autogen/mocs_compilation.cpp	82bcb8ca987b0b40
+19	44	1701027921262005156	CMakeFiles/qt6ci-14-4.dir/qt6ci-14-4_autogen/mocs_compilation.cpp.o	11f64078bcdaf49f
+19	1229	1701027922447602003	CMakeFiles/qt6ci-14-4.dir/main.cpp.o	9129d5aab6b2e4a
+1230	1385	1701027922603810308	qt6ci-14-4	a4d973d078f05800
+2	16	1701028087720982105	qt6ci-14-4_autogen/timestamp	82bcb8ca987b0b40
+2	16	1701028087720982105	qt6ci-14-4_autogen/mocs_compilation.cpp	82bcb8ca987b0b40
+2	16	1701028087720982105	/home/anuj/Documents/QT-Intermmediate/Working with Operating system/build-qt6ci-14-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-14-4_autogen/timestamp	82bcb8ca987b0b40
+2	16	1701028087720982105	/home/anuj/Documents/QT-Intermmediate/Working with Operating system/build-qt6ci-14-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-14-4_autogen/mocs_compilation.cpp	82bcb8ca987b0b40
+2	16	1701028117771047677	qt6ci-14-4_autogen/timestamp	82bcb8ca987b0b40
+2	16	1701028117771047677	qt6ci-14-4_autogen/mocs_compilation.cpp	82bcb8ca987b0b40
+2	16	1701028117771047677	/home/anuj/Documents/QT-Intermmediate/Working with Operating system/build-qt6ci-14-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-14-4_autogen/timestamp	82bcb8ca987b0b40
+2	16	1701028117771047677	/home/anuj/Documents/QT-Intermmediate/Working with Operating system/build-qt6ci-14-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-14-4_autogen/mocs_compilation.cpp	82bcb8ca987b0b40
+17	1140	1701028118895104886	CMakeFiles/qt6ci-14-4.dir/main.cpp.o	9129d5aab6b2e4a
+1140	1272	1701028119027111556	qt6ci-14-4	a4d973d078f05800

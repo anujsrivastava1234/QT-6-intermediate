@@ -1,0 +1,14 @@
+# ninja log v5
+0	13	1700978766414072550	qt6ci-10-assessment_autogen/timestamp	ac0fbd1d41a676c0
+0	13	1700978766414072550	qt6ci-10-assessment_autogen/mocs_compilation.cpp	ac0fbd1d41a676c0
+0	13	1700978766414072550	/home/anuj/Documents/QT-Intermmediate/Encoding/build-qt6ci-10-assessment-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-10-assessment_autogen/timestamp	ac0fbd1d41a676c0
+0	13	1700978766414072550	/home/anuj/Documents/QT-Intermmediate/Encoding/build-qt6ci-10-assessment-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-10-assessment_autogen/mocs_compilation.cpp	ac0fbd1d41a676c0
+13	24	1700978766426072648	CMakeFiles/qt6ci-10-assessment.dir/qt6ci-10-assessment_autogen/mocs_compilation.cpp.o	853055035170bcf7
+14	1186	1700978767590082163	CMakeFiles/qt6ci-10-assessment.dir/main.cpp.o	944fab09d2f29cd2
+1187	1308	1700978767710083144	qt6ci-10-assessment	51d6ddb992ec1077
+1	7	1700978839958664440	qt6ci-10-assessment_autogen/timestamp	ac0fbd1d41a676c0
+1	7	1700978839958664440	qt6ci-10-assessment_autogen/mocs_compilation.cpp	ac0fbd1d41a676c0
+1	7	1700978839958664440	/home/anuj/Documents/QT-Intermmediate/Encoding/build-qt6ci-10-assessment-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-10-assessment_autogen/timestamp	ac0fbd1d41a676c0
+1	7	1700978839958664440	/home/anuj/Documents/QT-Intermmediate/Encoding/build-qt6ci-10-assessment-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-10-assessment_autogen/mocs_compilation.cpp	ac0fbd1d41a676c0
+7	1073	1700978841022672872	CMakeFiles/qt6ci-10-assessment.dir/main.cpp.o	944fab09d2f29cd2
+1073	1191	1700978841138673791	qt6ci-10-assessment	51d6ddb992ec1077

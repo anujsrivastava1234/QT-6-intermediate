@@ -1,0 +1,14 @@
+-rootPath
+/home/anuj/Documents/QT-Intermmediate/QSetting/2-2BasicDataTypes
+-cmake-output
+-output-file
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-2-2BasicDataTypes-Desktop_Qt_6_6_0_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app2-2BasicDataTypes.cmake
+-importPath
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-2-2BasicDataTypes-Desktop_Qt_6_6_0_GCC_64bit-Debug/2-2BasicDataTypes
+-importPath
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-2-2BasicDataTypes-Desktop_Qt_6_6_0_GCC_64bit-Debug
+-importPath
+/home/anuj/Qt/6.6.0/gcc_64/./qml
+-qrcFiles
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-2-2BasicDataTypes-Desktop_Qt_6_6_0_GCC_64bit-Debug/.rcc/qmake_2-2BasicDataTypes.qrc
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-2-2BasicDataTypes-Desktop_Qt_6_6_0_GCC_64bit-Debug/.rcc/app2-2BasicDataTypes_raw_qml_0.qrc

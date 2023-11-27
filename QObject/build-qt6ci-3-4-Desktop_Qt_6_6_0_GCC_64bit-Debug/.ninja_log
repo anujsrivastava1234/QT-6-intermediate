@@ -1,0 +1,22 @@
+# ninja log v5
+0	18	1700124102156460527	qt6ci-3-4_autogen/timestamp	b182ebf42a4d26b4
+0	18	1700124102156460527	qt6ci-3-4_autogen/mocs_compilation.cpp	b182ebf42a4d26b4
+0	18	1700124102156460527	/home/anuj/Documents/QT-Intermmediate/QObject/build-qt6ci-3-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-3-4_autogen/timestamp	b182ebf42a4d26b4
+0	18	1700124102156460527	/home/anuj/Documents/QT-Intermmediate/QObject/build-qt6ci-3-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-3-4_autogen/mocs_compilation.cpp	b182ebf42a4d26b4
+18	27	1700124102168461464	CMakeFiles/qt6ci-3-4.dir/qt6ci-3-4_autogen/mocs_compilation.cpp.o	52cd02c38a3ac813
+19	952	1700124103092533565	CMakeFiles/qt6ci-3-4.dir/main.cpp.o	b17f655dcd9db2b1
+953	1066	1700124103204542290	qt6ci-3-4	40d5643a26e6e2cd
+1	7	1700125928014266886	qt6ci-3-4_autogen/timestamp	b182ebf42a4d26b4
+1	7	1700125928014266886	qt6ci-3-4_autogen/mocs_compilation.cpp	b182ebf42a4d26b4
+1	7	1700125928014266886	/home/anuj/Documents/QT-Intermmediate/QObject/build-qt6ci-3-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-3-4_autogen/timestamp	b182ebf42a4d26b4
+1	7	1700125928014266886	/home/anuj/Documents/QT-Intermmediate/QObject/build-qt6ci-3-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-3-4_autogen/mocs_compilation.cpp	b182ebf42a4d26b4
+0	8	1700125937746366333	qt6ci-3-4_autogen/timestamp	b182ebf42a4d26b4
+0	8	1700125937746366333	qt6ci-3-4_autogen/mocs_compilation.cpp	b182ebf42a4d26b4
+0	8	1700125937746366333	/home/anuj/Documents/QT-Intermmediate/QObject/build-qt6ci-3-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-3-4_autogen/timestamp	b182ebf42a4d26b4
+0	8	1700125937746366333	/home/anuj/Documents/QT-Intermmediate/QObject/build-qt6ci-3-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-3-4_autogen/mocs_compilation.cpp	b182ebf42a4d26b4
+1	7	1700125950634497486	qt6ci-3-4_autogen/timestamp	b182ebf42a4d26b4
+1	7	1700125950634497486	qt6ci-3-4_autogen/mocs_compilation.cpp	b182ebf42a4d26b4
+1	7	1700125950634497486	/home/anuj/Documents/QT-Intermmediate/QObject/build-qt6ci-3-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-3-4_autogen/timestamp	b182ebf42a4d26b4
+1	7	1700125950634497486	/home/anuj/Documents/QT-Intermmediate/QObject/build-qt6ci-3-4-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-3-4_autogen/mocs_compilation.cpp	b182ebf42a4d26b4
+8	942	1700125951566506946	CMakeFiles/qt6ci-3-4.dir/main.cpp.o	b17f655dcd9db2b1
+942	1073	1700125951698508286	qt6ci-3-4	40d5643a26e6e2cd

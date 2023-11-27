@@ -1,0 +1,9 @@
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-WebAssembly_Qt_6_6_0_single_threaded-Debug/CMakeFiles/untitled.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-WebAssembly_Qt_6_6_0_single_threaded-Debug/CMakeFiles/edit_cache.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-WebAssembly_Qt_6_6_0_single_threaded-Debug/CMakeFiles/rebuild_cache.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-WebAssembly_Qt_6_6_0_single_threaded-Debug/CMakeFiles/list_install_components.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-WebAssembly_Qt_6_6_0_single_threaded-Debug/CMakeFiles/install.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-WebAssembly_Qt_6_6_0_single_threaded-Debug/CMakeFiles/install/local.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-WebAssembly_Qt_6_6_0_single_threaded-Debug/CMakeFiles/install/strip.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-WebAssembly_Qt_6_6_0_single_threaded-Debug/CMakeFiles/untitled_autogen_timestamp_deps.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-WebAssembly_Qt_6_6_0_single_threaded-Debug/CMakeFiles/untitled_autogen.dir

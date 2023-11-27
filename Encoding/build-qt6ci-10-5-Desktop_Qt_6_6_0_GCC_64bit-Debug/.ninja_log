@@ -1,0 +1,20 @@
+# ninja log v5
+0	14	1700977917340647877	qt6ci-10-5_autogen/timestamp	4b875761e861724f
+0	14	1700977917340647877	qt6ci-10-5_autogen/mocs_compilation.cpp	4b875761e861724f
+0	14	1700977917340647877	/home/anuj/Documents/QT-Intermmediate/Encoding/build-qt6ci-10-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-10-5_autogen/timestamp	4b875761e861724f
+0	14	1700977917340647877	/home/anuj/Documents/QT-Intermmediate/Encoding/build-qt6ci-10-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-10-5_autogen/mocs_compilation.cpp	4b875761e861724f
+15	27	1700977917356648135	CMakeFiles/qt6ci-10-5.dir/qt6ci-10-5_autogen/mocs_compilation.cpp.o	69a0b583ce16a0c9
+15	940	1700977918268662837	CMakeFiles/qt6ci-10-5.dir/main.cpp.o	74929fceb24fd80d
+940	1037	1700977918364664383	qt6ci-10-5	2d55a94d7e643cce
+1	12	1700977928612828477	qt6ci-10-5_autogen/timestamp	4b875761e861724f
+1	12	1700977928612828477	qt6ci-10-5_autogen/mocs_compilation.cpp	4b875761e861724f
+1	12	1700977928612828477	/home/anuj/Documents/QT-Intermmediate/Encoding/build-qt6ci-10-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-10-5_autogen/timestamp	4b875761e861724f
+1	12	1700977928612828477	/home/anuj/Documents/QT-Intermmediate/Encoding/build-qt6ci-10-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-10-5_autogen/mocs_compilation.cpp	4b875761e861724f
+13	927	1700977929524842983	CMakeFiles/qt6ci-10-5.dir/main.cpp.o	74929fceb24fd80d
+927	1041	1700977929640844828	qt6ci-10-5	2d55a94d7e643cce
+0	12	1700978205140625046	qt6ci-10-5_autogen/timestamp	4b875761e861724f
+0	12	1700978205140625046	qt6ci-10-5_autogen/mocs_compilation.cpp	4b875761e861724f
+0	12	1700978205140625046	/home/anuj/Documents/QT-Intermmediate/Encoding/build-qt6ci-10-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-10-5_autogen/timestamp	4b875761e861724f
+0	12	1700978205140625046	/home/anuj/Documents/QT-Intermmediate/Encoding/build-qt6ci-10-5-Desktop_Qt_6_6_0_GCC_64bit-Debug/qt6ci-10-5_autogen/mocs_compilation.cpp	4b875761e861724f
+12	1068	1700978206196637610	CMakeFiles/qt6ci-10-5.dir/main.cpp.o	74929fceb24fd80d
+1068	1185	1700978206312638990	qt6ci-10-5	2d55a94d7e643cce

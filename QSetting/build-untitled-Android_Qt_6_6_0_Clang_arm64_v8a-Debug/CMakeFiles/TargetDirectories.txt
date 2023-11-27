@@ -1,0 +1,17 @@
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-Android_Qt_6_6_0_Clang_arm64_v8a-Debug/CMakeFiles/apk.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-Android_Qt_6_6_0_Clang_arm64_v8a-Debug/CMakeFiles/aab.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-Android_Qt_6_6_0_Clang_arm64_v8a-Debug/CMakeFiles/untitled.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-Android_Qt_6_6_0_Clang_arm64_v8a-Debug/CMakeFiles/_qt_internal_apk_dependencies.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-Android_Qt_6_6_0_Clang_arm64_v8a-Debug/CMakeFiles/apk_all.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-Android_Qt_6_6_0_Clang_arm64_v8a-Debug/CMakeFiles/qt_internal_plugins.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-Android_Qt_6_6_0_Clang_arm64_v8a-Debug/CMakeFiles/untitled_prepare_apk_dir.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-Android_Qt_6_6_0_Clang_arm64_v8a-Debug/CMakeFiles/untitled_make_apk.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-Android_Qt_6_6_0_Clang_arm64_v8a-Debug/CMakeFiles/untitled_make_aab.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-Android_Qt_6_6_0_Clang_arm64_v8a-Debug/CMakeFiles/edit_cache.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-Android_Qt_6_6_0_Clang_arm64_v8a-Debug/CMakeFiles/rebuild_cache.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-Android_Qt_6_6_0_Clang_arm64_v8a-Debug/CMakeFiles/list_install_components.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-Android_Qt_6_6_0_Clang_arm64_v8a-Debug/CMakeFiles/install.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-Android_Qt_6_6_0_Clang_arm64_v8a-Debug/CMakeFiles/install/local.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-Android_Qt_6_6_0_Clang_arm64_v8a-Debug/CMakeFiles/install/strip.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-Android_Qt_6_6_0_Clang_arm64_v8a-Debug/CMakeFiles/untitled_autogen_timestamp_deps.dir
+/home/anuj/Documents/QT-Intermmediate/QSetting/build-untitled-Android_Qt_6_6_0_Clang_arm64_v8a-Debug/CMakeFiles/untitled_autogen.dir
